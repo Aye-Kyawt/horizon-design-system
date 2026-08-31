@@ -1,0 +1,227 @@
+{
+  "color-bg-base": {
+    "$type": "color",
+    "$value": "{color-neutral-0}",
+    "$description": "Page ground."
+  },
+  "color-bg-base-subtle": {
+    "$type": "color",
+    "$value": "{color-neutral-50}",
+    "$description": "Sunken ground. Footer, table stripe."
+  },
+  "color-bg-base-inverse": {
+    "$type": "color",
+    "$value": "{color-navy-800}",
+    "$description": "Sidebar and dark panels."
+  },
+  "color-bg-surface-primary": {
+    "$type": "color",
+    "$value": "{color-neutral-0}",
+    "$description": "Card and panel surface."
+  },
+  "color-bg-surface-secondary": {
+    "$type": "color",
+    "$value": "{color-neutral-50}",
+    "$description": "Nested or sunken surface."
+  },
+  "color-bg-primary": {
+    "$type": "color",
+    "$value": "{color-blue-600}",
+    "$description": "Primary action fill."
+  },
+  "color-bg-primary-hovered": {
+    "$type": "color",
+    "$value": "{color-blue-700}",
+    "$description": "Primary action, pointer over."
+  },
+  "color-bg-primary-pressed": {
+    "$type": "color",
+    "$value": "{color-blue-800}",
+    "$description": "Primary action, held down."
+  },
+  "color-bg-primary-subtle": {
+    "$type": "color",
+    "$value": "{color-blue-50}",
+    "$description": "Quiet primary ground. Selected chip."
+  },
+  "color-bg-primary-disabled": {
+    "$type": "color",
+    "$value": "{color-neutral-300}",
+    "$description": "Primary action, unavailable."
+  },
+  "color-bg-secondary": {
+    "$type": "color",
+    "$value": "{color-neutral-0}",
+    "$description": "Outlined action fill."
+  },
+  "color-bg-secondary-hovered": {
+    "$type": "color",
+    "$value": "{color-neutral-100}",
+    "$description": "Outlined action, pointer over."
+  },
+  "color-bg-negative": {
+    "$type": "color",
+    "$value": "{color-red-700}",
+    "$description": "Destructive action fill."
+  },
+  "color-bg-negative-subtle": {
+    "$type": "color",
+    "$value": "{color-red-50}",
+    "$description": "Error banner ground."
+  },
+  "color-bg-positive-subtle": {
+    "$type": "color",
+    "$value": "{color-green-50}",
+    "$description": "Success banner ground."
+  },
+  "color-bg-warning-subtle": {
+    "$type": "color",
+    "$value": "{color-amber-50}",
+    "$description": "Warning banner ground."
+  },
+  "color-bg-info-subtle": {
+    "$type": "color",
+    "$value": "{color-blue-50}",
+    "$description": "Info banner and tag ground."
+  },
+  "color-bg-overlay": {
+    "$type": "color",
+    "$value": "{color-neutral-900a}",
+    "$description": "Scrim behind modals and drawers."
+  },
+  "color-text-primary": {
+    "$type": "color",
+    "$value": "{color-neutral-900}",
+    "$description": "Body copy and titles."
+  },
+  "color-text-secondary": {
+    "$type": "color",
+    "$value": "{color-neutral-700}",
+    "$description": "Supporting copy, table cells."
+  },
+  "color-text-subtle": {
+    "$type": "color",
+    "$value": "{color-neutral-500}",
+    "$description": "Placeholder, metadata, captions."
+  },
+  "color-text-subtlest": {
+    "$type": "color",
+    "$value": "{color-neutral-400}",
+    "$description": "Lowest-emphasis text."
+  },
+  "color-text-disabled": {
+    "$type": "color",
+    "$value": "{color-neutral-400}",
+    "$description": "Text inside a disabled control."
+  },
+  "color-text-inverse": {
+    "$type": "color",
+    "$value": "{color-neutral-0}",
+    "$description": "Text on a filled action or inverse surface."
+  },
+  "color-text-link": {
+    "$type": "color",
+    "$value": "{color-bg-primary}",
+    "$description": "Inline link. Follows the primary action rather than restating blue."
+  },
+  "color-text-link-hovered": {
+    "$type": "color",
+    "$value": "{color-blue-700}",
+    "$description": "Link, pointer over."
+  },
+  "color-text-link-visited": {
+    "$type": "color",
+    "$value": "{color-navy-700}",
+    "$description": "Link already followed."
+  },
+  "color-text-positive": {
+    "$type": "color",
+    "$value": "{color-green-600}",
+    "$description": "Confirmation copy."
+  },
+  "color-text-negative": {
+    "$type": "color",
+    "$value": "{color-red-700}",
+    "$description": "Error copy."
+  },
+  "color-text-warning": {
+    "$type": "color",
+    "$value": "{color-amber-700}",
+    "$description": "Caution copy."
+  },
+  "color-text-accent": {
+    "$type": "color",
+    "$value": "{color-orange-500}",
+    "$description": "Rating and highlight."
+  },
+  "color-border-default": {
+    "$type": "color",
+    "$value": "{color-neutral-200}",
+    "$description": "Card, input, divider."
+  },
+  "color-border-bold": {
+    "$type": "color",
+    "$value": "{color-neutral-300}",
+    "$description": "Outlined control at rest."
+  },
+  "color-border-subtle": {
+    "$type": "color",
+    "$value": "{color-neutral-100}",
+    "$description": "Faint divider."
+  },
+  "color-border-focused": {
+    "$type": "color",
+    "$value": "{color-bg-primary}",
+    "$description": "Keyboard focus ring. Follows the primary action."
+  },
+  "color-border-negative": {
+    "$type": "color",
+    "$value": "{color-red-500}",
+    "$description": "Field in error."
+  },
+  "color-border-disabled": {
+    "$type": "color",
+    "$value": "{color-neutral-200}",
+    "$description": "Border of a disabled control."
+  },
+  "color-border-inverse": {
+    "$type": "color",
+    "$value": "{color-neutral-0}",
+    "$description": "Border on an inverse surface."
+  },
+  "color-icon-primary": {
+    "$type": "color",
+    "$value": "{color-neutral-900}",
+    "$description": "Default icon."
+  },
+  "color-icon-subtle": {
+    "$type": "color",
+    "$value": "{color-neutral-500}",
+    "$description": "Low-emphasis icon."
+  },
+  "color-icon-inverse": {
+    "$type": "color",
+    "$value": "{color-neutral-0}",
+    "$description": "Icon on a filled action."
+  },
+  "color-icon-accent": {
+    "$type": "color",
+    "$value": "{color-orange-500}",
+    "$description": "Rating star."
+  },
+  "color-icon-positive": {
+    "$type": "color",
+    "$value": "{color-green-600}",
+    "$description": "Confirmed."
+  },
+  "color-icon-negative": {
+    "$type": "color",
+    "$value": "{color-red-700}",
+    "$description": "Failed, cancelled."
+  },
+  "color-icon-warning": {
+    "$type": "color",
+    "$value": "{color-amber-700}",
+    "$description": "Pending, expiring."
+  }
+}

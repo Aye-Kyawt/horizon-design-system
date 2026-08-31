@@ -1,0 +1,663 @@
+{
+  "color-neutral-0": {
+    "$type": "color",
+    "$value": {
+      "colorSpace": "srgb",
+      "components": [
+        1,
+        1,
+        1
+      ]
+    },
+    "$description": "White."
+  },
+  "color-neutral-50": {
+    "$type": "color",
+    "$value": {
+      "colorSpace": "srgb",
+      "components": [
+        0.9686274528503418,
+        0.9764705896377563,
+        0.9843137264251709
+      ]
+    },
+    "$description": "Sunken ground."
+  },
+  "color-neutral-100": {
+    "$type": "color",
+    "$value": {
+      "colorSpace": "srgb",
+      "components": [
+        0.9450980424880981,
+        0.95686274766922,
+        0.9686274528503418
+      ]
+    },
+    "$description": "Sunken surface."
+  },
+  "color-neutral-200": {
+    "$type": "color",
+    "$value": {
+      "colorSpace": "srgb",
+      "components": [
+        0.9176470637321472,
+        0.9372549057006836,
+        0.95686274766922
+      ]
+    },
+    "$description": "The border grey. 8 components use it."
+  },
+  "color-neutral-300": {
+    "$type": "color",
+    "$value": {
+      "colorSpace": "srgb",
+      "components": [
+        0.843137264251709,
+        0.8705882430076599,
+        0.9058823585510254
+      ]
+    },
+    "$description": "Strong border."
+  },
+  "color-neutral-400": {
+    "$type": "color",
+    "$value": {
+      "colorSpace": "srgb",
+      "components": [
+        0.7254902124404907,
+        0.7803921699523926,
+        0.8392156958580017
+      ]
+    },
+    "$description": "Disabled."
+  },
+  "color-neutral-500": {
+    "$type": "color",
+    "$value": {
+      "colorSpace": "srgb",
+      "components": [
+        0.5411764979362488,
+        0.5803921818733215,
+        0.6509804129600525
+      ]
+    },
+    "$description": "Subtle text. 1,867 layers in production."
+  },
+  "color-neutral-600": {
+    "$type": "color",
+    "$value": {
+      "colorSpace": "srgb",
+      "components": [
+        0.47843137383461,
+        0.5333333611488342,
+        0.6000000238418579
+      ]
+    },
+    "$description": "Between subtle and secondary."
+  },
+  "color-neutral-700": {
+    "$type": "color",
+    "$value": {
+      "colorSpace": "srgb",
+      "components": [
+        0.3529411852359772,
+        0.41960784792900085,
+        0.4941176474094391
+      ]
+    },
+    "$description": "Secondary text. 2,640 layers in production."
+  },
+  "color-neutral-800": {
+    "$type": "color",
+    "$value": {
+      "colorSpace": "srgb",
+      "components": [
+        0.22745098173618317,
+        0.2705882489681244,
+        0.32549020648002625
+      ]
+    },
+    "$description": "Strong secondary."
+  },
+  "color-neutral-900": {
+    "$type": "color",
+    "$value": {
+      "colorSpace": "srgb",
+      "components": [
+        0.10588235408067703,
+        0.15294118225574493,
+        0.20000000298023224
+      ]
+    },
+    "$description": "Primary text. 2,382 layers in production."
+  },
+  "color-neutral-950": {
+    "$type": "color",
+    "$value": {
+      "colorSpace": "srgb",
+      "components": [
+        0.07058823853731155,
+        0.0941176488995552,
+        0.12156862765550613
+      ]
+    },
+    "$description": "Max contrast. Dark-mode ground."
+  },
+  "color-blue-50": {
+    "$type": "color",
+    "$value": {
+      "colorSpace": "srgb",
+      "components": [
+        0.9333333373069763,
+        0.95686274766922,
+        1
+      ]
+    },
+    "$description": "Tag and icon tile."
+  },
+  "color-blue-100": {
+    "$type": "color",
+    "$value": {
+      "colorSpace": "srgb",
+      "components": [
+        0.7882353067398071,
+        0.8509804010391235,
+        0.9725490212440491
+      ]
+    },
+    "$description": "Production tint."
+  },
+  "color-blue-200": {
+    "$type": "color",
+    "$value": {
+      "colorSpace": "srgb",
+      "components": [
+        0.49803921580314636,
+        0.658823549747467,
+        0.9333333373069763
+      ]
+    },
+    "$description": "Production tint."
+  },
+  "color-blue-300": {
+    "$type": "color",
+    "$value": {
+      "colorSpace": "srgb",
+      "components": [
+        0.37254902720451355,
+        0.6392157077789307,
+        0.8588235378265381
+      ]
+    },
+    "$description": "Light blue."
+  },
+  "color-blue-400": {
+    "$type": "color",
+    "$value": {
+      "colorSpace": "srgb",
+      "components": [
+        0.23137255012989044,
+        0.5098039507865906,
+        0.9647058844566345
+      ]
+    },
+    "$description": "Button2, SignInBtn. Action colour on dark."
+  },
+  "color-blue-500": {
+    "$type": "color",
+    "$value": {
+      "colorSpace": "srgb",
+      "components": [
+        0.18039216101169586,
+        0.48627451062202454,
+        0.7686274647712708
+      ]
+    },
+    "$description": "Orphan Button and the wordmark."
+  },
+  "color-blue-600": {
+    "$type": "color",
+    "$value": {
+      "colorSpace": "srgb",
+      "components": [
+        0.11372549086809158,
+        0.30588236451148987,
+        0.8470588326454163
+      ]
+    },
+    "$description": "btn primary, btn-cta, book now button, btn admin."
+  },
+  "color-blue-700": {
+    "$type": "color",
+    "$value": {
+      "colorSpace": "srgb",
+      "components": [
+        0.0941176488995552,
+        0.250980406999588,
+        0.6941176652908325
+      ]
+    },
+    "$description": "DERIVED from 600 at 82% lightness. Hover."
+  },
+  "color-blue-800": {
+    "$type": "color",
+    "$value": {
+      "colorSpace": "srgb",
+      "components": [
+        0.07450980693101883,
+        0.20000000298023224,
+        0.5607843399047852
+      ]
+    },
+    "$description": "DERIVED from 600 at 66% lightness. Pressed."
+  },
+  "color-navy-700": {
+    "$type": "color",
+    "$value": {
+      "colorSpace": "srgb",
+      "components": [
+        0.12156862765550613,
+        0.3607843220233917,
+        0.5607843399047852
+      ]
+    },
+    "$description": "Back-office accent, visited link."
+  },
+  "color-navy-800": {
+    "$type": "color",
+    "$value": {
+      "colorSpace": "srgb",
+      "components": [
+        0.05882352963089943,
+        0.18431372940540314,
+        0.41960784792900085
+      ]
+    },
+    "$description": "Sidebar v2, PrimaryButton2."
+  },
+  "color-navy-900": {
+    "$type": "color",
+    "$value": {
+      "colorSpace": "srgb",
+      "components": [
+        0.03921568766236305,
+        0.1411764770746231,
+        0.3137255012989044
+      ]
+    },
+    "$description": "Sidebar active item."
+  },
+  "color-green-50": {
+    "$type": "color",
+    "$value": {
+      "colorSpace": "srgb",
+      "components": [
+        0.8901960849761963,
+        0.9607843160629272,
+        0.9176470637321472
+      ]
+    },
+    "$description": "Subtle positive surface."
+  },
+  "color-green-600": {
+    "$type": "color",
+    "$value": {
+      "colorSpace": "srgb",
+      "components": [
+        0.12156862765550613,
+        0.5411764979362488,
+        0.2980392277240753
+      ]
+    },
+    "$description": "Positive. 203 layers, all three platforms."
+  },
+  "color-green-800": {
+    "$type": "color",
+    "$value": {
+      "colorSpace": "srgb",
+      "components": [
+        0.0784313753247261,
+        0.32549020648002625,
+        0.1764705926179886
+      ]
+    },
+    "$description": "Positive on a subtle surface."
+  },
+  "color-red-50": {
+    "$type": "color",
+    "$value": {
+      "colorSpace": "srgb",
+      "components": [
+        0.9921568632125854,
+        0.9254902005195618,
+        0.9176470637321472
+      ]
+    },
+    "$description": "Subtle negative surface."
+  },
+  "color-red-500": {
+    "$type": "color",
+    "$value": {
+      "colorSpace": "srgb",
+      "components": [
+        0.8784313797950745,
+        0.16862745583057404,
+        0.16862745583057404
+      ]
+    },
+    "$description": "Field error border."
+  },
+  "color-red-600": {
+    "$type": "color",
+    "$value": {
+      "colorSpace": "srgb",
+      "components": [
+        0.7568627595901489,
+        0.21176470816135406,
+        0.18431372940540314
+      ]
+    },
+    "$description": "Negative icon. 84 layers."
+  },
+  "color-red-700": {
+    "$type": "color",
+    "$value": {
+      "colorSpace": "srgb",
+      "components": [
+        0.6470588445663452,
+        0.14901961386203766,
+        0.11372549086809158
+      ]
+    },
+    "$description": "Negative text. 67 layers."
+  },
+  "color-amber-50": {
+    "$type": "color",
+    "$value": {
+      "colorSpace": "srgb",
+      "components": [
+        1,
+        0.95686274766922,
+        0.8784313797950745
+      ]
+    },
+    "$description": "Subtle warning surface."
+  },
+  "color-amber-700": {
+    "$type": "color",
+    "$value": {
+      "colorSpace": "srgb",
+      "components": [
+        0.5411764979362488,
+        0.3529411852359772,
+        0
+      ]
+    },
+    "$description": "Warning. 108 layers."
+  },
+  "color-orange-500": {
+    "$type": "color",
+    "$value": {
+      "colorSpace": "srgb",
+      "components": [
+        0.9411764740943909,
+        0.5764706134796143,
+        0.16862745583057404
+      ]
+    },
+    "$description": "Accent. Review rating."
+  },
+  "color-neutral-900a": {
+    "$type": "color",
+    "$value": {
+      "colorSpace": "srgb",
+      "components": [
+        0.10588235408067703,
+        0.15294118225574493,
+        0.20000000298023224
+      ],
+      "alpha": 0.550000011920929
+    },
+    "$description": "Scrim behind modals and drawers. 55% alpha."
+  },
+  "spacing-1": {
+    "$type": "dimension",
+    "$value": {
+      "value": 4,
+      "unit": "px"
+    },
+    "$description": "4px base unit."
+  },
+  "spacing-2": {
+    "$type": "dimension",
+    "$value": {
+      "value": 8,
+      "unit": "px"
+    },
+    "$description": "4px base unit."
+  },
+  "spacing-3": {
+    "$type": "dimension",
+    "$value": {
+      "value": 12,
+      "unit": "px"
+    },
+    "$description": "4px base unit."
+  },
+  "spacing-4": {
+    "$type": "dimension",
+    "$value": {
+      "value": 16,
+      "unit": "px"
+    },
+    "$description": "4px base unit."
+  },
+  "spacing-5": {
+    "$type": "dimension",
+    "$value": {
+      "value": 20,
+      "unit": "px"
+    },
+    "$description": "4px base unit."
+  },
+  "spacing-6": {
+    "$type": "dimension",
+    "$value": {
+      "value": 24,
+      "unit": "px"
+    },
+    "$description": "4px base unit."
+  },
+  "spacing-7": {
+    "$type": "dimension",
+    "$value": {
+      "value": 32,
+      "unit": "px"
+    },
+    "$description": "4px base unit."
+  },
+  "spacing-8": {
+    "$type": "dimension",
+    "$value": {
+      "value": 40,
+      "unit": "px"
+    },
+    "$description": "4px base unit."
+  },
+  "spacing-9": {
+    "$type": "dimension",
+    "$value": {
+      "value": 48,
+      "unit": "px"
+    },
+    "$description": "4px base unit."
+  },
+  "spacing-10": {
+    "$type": "dimension",
+    "$value": {
+      "value": 64,
+      "unit": "px"
+    },
+    "$description": "4px base unit."
+  },
+  "border-size-1": {
+    "$type": "dimension",
+    "$value": {
+      "value": 1,
+      "unit": "px"
+    },
+    "$description": "Stroke weight step."
+  },
+  "border-size-2": {
+    "$type": "dimension",
+    "$value": {
+      "value": 2,
+      "unit": "px"
+    },
+    "$description": "Stroke weight step."
+  },
+  "border-size-3": {
+    "$type": "dimension",
+    "$value": {
+      "value": 4,
+      "unit": "px"
+    },
+    "$description": "Stroke weight step."
+  },
+  "border-radius-1": {
+    "$type": "dimension",
+    "$value": {
+      "value": 2,
+      "unit": "px"
+    },
+    "$description": "Corner radius step. 7 is the pill."
+  },
+  "border-radius-2": {
+    "$type": "dimension",
+    "$value": {
+      "value": 4,
+      "unit": "px"
+    },
+    "$description": "Corner radius step. 7 is the pill."
+  },
+  "border-radius-3": {
+    "$type": "dimension",
+    "$value": {
+      "value": 6,
+      "unit": "px"
+    },
+    "$description": "Corner radius step. 7 is the pill."
+  },
+  "border-radius-4": {
+    "$type": "dimension",
+    "$value": {
+      "value": 8,
+      "unit": "px"
+    },
+    "$description": "Corner radius step. 7 is the pill."
+  },
+  "border-radius-5": {
+    "$type": "dimension",
+    "$value": {
+      "value": 12,
+      "unit": "px"
+    },
+    "$description": "Corner radius step. 7 is the pill."
+  },
+  "border-radius-6": {
+    "$type": "dimension",
+    "$value": {
+      "value": 16,
+      "unit": "px"
+    },
+    "$description": "Corner radius step. 7 is the pill."
+  },
+  "border-radius-7": {
+    "$type": "dimension",
+    "$value": {
+      "value": 999,
+      "unit": "px"
+    },
+    "$description": "Corner radius step. 7 is the pill."
+  },
+  "size-1": {
+    "$type": "dimension",
+    "$value": {
+      "value": 16,
+      "unit": "px"
+    },
+    "$description": "Control and icon dimension step."
+  },
+  "size-2": {
+    "$type": "dimension",
+    "$value": {
+      "value": 20,
+      "unit": "px"
+    },
+    "$description": "Control and icon dimension step."
+  },
+  "size-3": {
+    "$type": "dimension",
+    "$value": {
+      "value": 24,
+      "unit": "px"
+    },
+    "$description": "Control and icon dimension step."
+  },
+  "size-4": {
+    "$type": "dimension",
+    "$value": {
+      "value": 28,
+      "unit": "px"
+    },
+    "$description": "Control and icon dimension step."
+  },
+  "size-5": {
+    "$type": "dimension",
+    "$value": {
+      "value": 32,
+      "unit": "px"
+    },
+    "$description": "Control and icon dimension step."
+  },
+  "size-6": {
+    "$type": "dimension",
+    "$value": {
+      "value": 34,
+      "unit": "px"
+    },
+    "$description": "Control and icon dimension step."
+  },
+  "size-7": {
+    "$type": "dimension",
+    "$value": {
+      "value": 36,
+      "unit": "px"
+    },
+    "$description": "Control and icon dimension step."
+  },
+  "size-8": {
+    "$type": "dimension",
+    "$value": {
+      "value": 40,
+      "unit": "px"
+    },
+    "$description": "Control and icon dimension step."
+  },
+  "size-9": {
+    "$type": "dimension",
+    "$value": {
+      "value": 44,
+      "unit": "px"
+    },
+    "$description": "Control and icon dimension step."
+  },
+  "size-10": {
+    "$type": "dimension",
+    "$value": {
+      "value": 48,
+      "unit": "px"
+    },
+    "$description": "Control and icon dimension step."
+  }
+}

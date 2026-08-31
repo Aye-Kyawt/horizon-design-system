@@ -1,0 +1,382 @@
+{
+  "size-display-lg": {
+    "$type": "dimension",
+    "$value": {
+      "value": 57,
+      "unit": "px"
+    },
+    "$description": "Material 3 display large size. Web and mobile share the comfortable value; back office is compact."
+  },
+  "lineheight-display-lg": {
+    "$type": "dimension",
+    "$value": {
+      "value": 64,
+      "unit": "px"
+    },
+    "$description": "Material 3 display large lineHeight. Web and mobile share the comfortable value; back office is compact."
+  },
+  "tracking-display-lg": {
+    "$type": "dimension",
+    "$value": {
+      "value": -0.25,
+      "unit": "px"
+    },
+    "$description": "Material 3 display large tracking. Web and mobile share the comfortable value; back office is compact."
+  },
+  "size-display-md": {
+    "$type": "dimension",
+    "$value": {
+      "value": 45,
+      "unit": "px"
+    },
+    "$description": "Material 3 display medium size. Web and mobile share the comfortable value; back office is compact."
+  },
+  "lineheight-display-md": {
+    "$type": "dimension",
+    "$value": {
+      "value": 52,
+      "unit": "px"
+    },
+    "$description": "Material 3 display medium lineHeight. Web and mobile share the comfortable value; back office is compact."
+  },
+  "tracking-display-md": {
+    "$type": "dimension",
+    "$value": {
+      "value": 0,
+      "unit": "px"
+    },
+    "$description": "Material 3 display medium tracking. Web and mobile share the comfortable value; back office is compact."
+  },
+  "size-display-sm": {
+    "$type": "dimension",
+    "$value": {
+      "value": 36,
+      "unit": "px"
+    },
+    "$description": "Material 3 display small size. Web and mobile share the comfortable value; back office is compact."
+  },
+  "lineheight-display-sm": {
+    "$type": "dimension",
+    "$value": {
+      "value": 44,
+      "unit": "px"
+    },
+    "$description": "Material 3 display small lineHeight. Web and mobile share the comfortable value; back office is compact."
+  },
+  "tracking-display-sm": {
+    "$type": "dimension",
+    "$value": {
+      "value": 0,
+      "unit": "px"
+    },
+    "$description": "Material 3 display small tracking. Web and mobile share the comfortable value; back office is compact."
+  },
+  "size-headline-lg": {
+    "$type": "dimension",
+    "$value": {
+      "value": 28,
+      "unit": "px"
+    },
+    "$description": "Material 3 headline large size. Web and mobile share the comfortable value; back office is compact."
+  },
+  "lineheight-headline-lg": {
+    "$type": "dimension",
+    "$value": {
+      "value": 36,
+      "unit": "px"
+    },
+    "$description": "Material 3 headline large lineHeight. Web and mobile share the comfortable value; back office is compact."
+  },
+  "tracking-headline-lg": {
+    "$type": "dimension",
+    "$value": {
+      "value": 0,
+      "unit": "px"
+    },
+    "$description": "Material 3 headline large tracking. Web and mobile share the comfortable value; back office is compact."
+  },
+  "size-headline-md": {
+    "$type": "dimension",
+    "$value": {
+      "value": 24,
+      "unit": "px"
+    },
+    "$description": "Material 3 headline medium size. Web and mobile share the comfortable value; back office is compact."
+  },
+  "lineheight-headline-md": {
+    "$type": "dimension",
+    "$value": {
+      "value": 32,
+      "unit": "px"
+    },
+    "$description": "Material 3 headline medium lineHeight. Web and mobile share the comfortable value; back office is compact."
+  },
+  "tracking-headline-md": {
+    "$type": "dimension",
+    "$value": {
+      "value": 0,
+      "unit": "px"
+    },
+    "$description": "Material 3 headline medium tracking. Web and mobile share the comfortable value; back office is compact."
+  },
+  "size-headline-sm": {
+    "$type": "dimension",
+    "$value": {
+      "value": 22,
+      "unit": "px"
+    },
+    "$description": "Material 3 headline small size. Web and mobile share the comfortable value; back office is compact."
+  },
+  "lineheight-headline-sm": {
+    "$type": "dimension",
+    "$value": {
+      "value": 28,
+      "unit": "px"
+    },
+    "$description": "Material 3 headline small lineHeight. Web and mobile share the comfortable value; back office is compact."
+  },
+  "tracking-headline-sm": {
+    "$type": "dimension",
+    "$value": {
+      "value": 0,
+      "unit": "px"
+    },
+    "$description": "Material 3 headline small tracking. Web and mobile share the comfortable value; back office is compact."
+  },
+  "size-title-lg": {
+    "$type": "dimension",
+    "$value": {
+      "value": 16,
+      "unit": "px"
+    },
+    "$description": "Material 3 title large size. Web and mobile share the comfortable value; back office is compact."
+  },
+  "lineheight-title-lg": {
+    "$type": "dimension",
+    "$value": {
+      "value": 24,
+      "unit": "px"
+    },
+    "$description": "Material 3 title large lineHeight. Web and mobile share the comfortable value; back office is compact."
+  },
+  "tracking-title-lg": {
+    "$type": "dimension",
+    "$value": {
+      "value": 0,
+      "unit": "px"
+    },
+    "$description": "Material 3 title large tracking. Web and mobile share the comfortable value; back office is compact."
+  },
+  "size-title-md": {
+    "$type": "dimension",
+    "$value": {
+      "value": 14,
+      "unit": "px"
+    },
+    "$description": "Material 3 title medium size. Web and mobile share the comfortable value; back office is compact."
+  },
+  "lineheight-title-md": {
+    "$type": "dimension",
+    "$value": {
+      "value": 20,
+      "unit": "px"
+    },
+    "$description": "Material 3 title medium lineHeight. Web and mobile share the comfortable value; back office is compact."
+  },
+  "tracking-title-md": {
+    "$type": "dimension",
+    "$value": {
+      "value": 0.15000000596046448,
+      "unit": "px"
+    },
+    "$description": "Material 3 title medium tracking. Web and mobile share the comfortable value; back office is compact."
+  },
+  "size-title-sm": {
+    "$type": "dimension",
+    "$value": {
+      "value": 12,
+      "unit": "px"
+    },
+    "$description": "Material 3 title small size. Web and mobile share the comfortable value; back office is compact."
+  },
+  "lineheight-title-sm": {
+    "$type": "dimension",
+    "$value": {
+      "value": 16,
+      "unit": "px"
+    },
+    "$description": "Material 3 title small lineHeight. Web and mobile share the comfortable value; back office is compact."
+  },
+  "tracking-title-sm": {
+    "$type": "dimension",
+    "$value": {
+      "value": 0.10000000149011612,
+      "unit": "px"
+    },
+    "$description": "Material 3 title small tracking. Web and mobile share the comfortable value; back office is compact."
+  },
+  "size-body-lg": {
+    "$type": "dimension",
+    "$value": {
+      "value": 14,
+      "unit": "px"
+    },
+    "$description": "Material 3 body large size. Web and mobile share the comfortable value; back office is compact."
+  },
+  "lineheight-body-lg": {
+    "$type": "dimension",
+    "$value": {
+      "value": 20,
+      "unit": "px"
+    },
+    "$description": "Material 3 body large lineHeight. Web and mobile share the comfortable value; back office is compact."
+  },
+  "tracking-body-lg": {
+    "$type": "dimension",
+    "$value": {
+      "value": 0.5,
+      "unit": "px"
+    },
+    "$description": "Material 3 body large tracking. Web and mobile share the comfortable value; back office is compact."
+  },
+  "size-body-md": {
+    "$type": "dimension",
+    "$value": {
+      "value": 12,
+      "unit": "px"
+    },
+    "$description": "Material 3 body medium size. Web and mobile share the comfortable value; back office is compact."
+  },
+  "lineheight-body-md": {
+    "$type": "dimension",
+    "$value": {
+      "value": 16,
+      "unit": "px"
+    },
+    "$description": "Material 3 body medium lineHeight. Web and mobile share the comfortable value; back office is compact."
+  },
+  "tracking-body-md": {
+    "$type": "dimension",
+    "$value": {
+      "value": 0.25,
+      "unit": "px"
+    },
+    "$description": "Material 3 body medium tracking. Web and mobile share the comfortable value; back office is compact."
+  },
+  "size-body-sm": {
+    "$type": "dimension",
+    "$value": {
+      "value": 11,
+      "unit": "px"
+    },
+    "$description": "Material 3 body small size. Web and mobile share the comfortable value; back office is compact."
+  },
+  "lineheight-body-sm": {
+    "$type": "dimension",
+    "$value": {
+      "value": 16,
+      "unit": "px"
+    },
+    "$description": "Material 3 body small lineHeight. Web and mobile share the comfortable value; back office is compact."
+  },
+  "tracking-body-sm": {
+    "$type": "dimension",
+    "$value": {
+      "value": 0.4000000059604645,
+      "unit": "px"
+    },
+    "$description": "Material 3 body small tracking. Web and mobile share the comfortable value; back office is compact."
+  },
+  "size-label-lg": {
+    "$type": "dimension",
+    "$value": {
+      "value": 12,
+      "unit": "px"
+    },
+    "$description": "Material 3 label large size. Web and mobile share the comfortable value; back office is compact."
+  },
+  "lineheight-label-lg": {
+    "$type": "dimension",
+    "$value": {
+      "value": 16,
+      "unit": "px"
+    },
+    "$description": "Material 3 label large lineHeight. Web and mobile share the comfortable value; back office is compact."
+  },
+  "tracking-label-lg": {
+    "$type": "dimension",
+    "$value": {
+      "value": 0.10000000149011612,
+      "unit": "px"
+    },
+    "$description": "Material 3 label large tracking. Web and mobile share the comfortable value; back office is compact."
+  },
+  "size-label-md": {
+    "$type": "dimension",
+    "$value": {
+      "value": 11,
+      "unit": "px"
+    },
+    "$description": "Material 3 label medium size. Web and mobile share the comfortable value; back office is compact."
+  },
+  "lineheight-label-md": {
+    "$type": "dimension",
+    "$value": {
+      "value": 16,
+      "unit": "px"
+    },
+    "$description": "Material 3 label medium lineHeight. Web and mobile share the comfortable value; back office is compact."
+  },
+  "tracking-label-md": {
+    "$type": "dimension",
+    "$value": {
+      "value": 0.5,
+      "unit": "px"
+    },
+    "$description": "Material 3 label medium tracking. Web and mobile share the comfortable value; back office is compact."
+  },
+  "size-label-sm": {
+    "$type": "dimension",
+    "$value": {
+      "value": 11,
+      "unit": "px"
+    },
+    "$description": "Material 3 label small size. Web and mobile share the comfortable value; back office is compact."
+  },
+  "lineheight-label-sm": {
+    "$type": "dimension",
+    "$value": {
+      "value": 16,
+      "unit": "px"
+    },
+    "$description": "Material 3 label small lineHeight. Web and mobile share the comfortable value; back office is compact."
+  },
+  "tracking-label-sm": {
+    "$type": "dimension",
+    "$value": {
+      "value": 0.5,
+      "unit": "px"
+    },
+    "$description": "Material 3 label small tracking. Web and mobile share the comfortable value; back office is compact."
+  },
+  "weight-regular": {
+    "$type": "fontWeight",
+    "$value": 400,
+    "$description": "Body and long-form copy."
+  },
+  "weight-medium": {
+    "$type": "fontWeight",
+    "$value": 500,
+    "$description": "Titles and labels. Material 3 base emphasis."
+  },
+  "weight-bold": {
+    "$type": "fontWeight",
+    "$value": 600,
+    "$description": "Emphasised titles, buttons and prices. Extension of the M3 base scale."
+  },
+  "family-default": {
+    "$type": "fontFamily",
+    "$value": "Inter",
+    "$description": "Inter. Already 100% consistent across all three platforms — the one thing that was."
+  }
+}

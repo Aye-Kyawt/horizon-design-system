@@ -1,0 +1,19 @@
+{
+  "name": "horizon-design-system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build:tokens": "node build-tokens.js",
+    "build": "npm run build:tokens",
+    "clean:tokens": "node -e \"require('fs').rmSync('build',{recursive:true,force:true})\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "style-dictionary": "^5.5.2"
+  }
+}

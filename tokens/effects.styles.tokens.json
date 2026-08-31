@@ -1,0 +1,302 @@
+{
+  "elevation-level1": {
+    "$type": "shadow",
+    "$description": "Card and raised surface. Use where a card sits on a busy ground; keep border-only on quiet grounds. New to the system — the audited products use zero shadows today.",
+    "$value": [
+      {
+        "color": {
+          "colorSpace": "srgb",
+          "components": [
+            0.10588235408067703,
+            0.15294118225574493,
+            0.20000000298023224
+          ],
+          "alpha": 0.05999999865889549
+        },
+        "offsetX": {
+          "value": 0,
+          "unit": "px"
+        },
+        "offsetY": {
+          "value": 1,
+          "unit": "px"
+        },
+        "blur": {
+          "value": 2,
+          "unit": "px"
+        },
+        "spread": {
+          "value": 0,
+          "unit": "px"
+        }
+      },
+      {
+        "color": {
+          "colorSpace": "srgb",
+          "components": [
+            0.10588235408067703,
+            0.15294118225574493,
+            0.20000000298023224
+          ],
+          "alpha": 0.10000000149011612
+        },
+        "offsetX": {
+          "value": 0,
+          "unit": "px"
+        },
+        "offsetY": {
+          "value": 1,
+          "unit": "px"
+        },
+        "blur": {
+          "value": 3,
+          "unit": "px"
+        },
+        "spread": {
+          "value": 0,
+          "unit": "px"
+        }
+      }
+    ]
+  },
+  "elevation-level2": {
+    "$type": "shadow",
+    "$description": "Sticky header, raised panel. New to the system — the audited products use zero shadows today.",
+    "$value": [
+      {
+        "color": {
+          "colorSpace": "srgb",
+          "components": [
+            0.10588235408067703,
+            0.15294118225574493,
+            0.20000000298023224
+          ],
+          "alpha": 0.05999999865889549
+        },
+        "offsetX": {
+          "value": 0,
+          "unit": "px"
+        },
+        "offsetY": {
+          "value": 2,
+          "unit": "px"
+        },
+        "blur": {
+          "value": 4,
+          "unit": "px"
+        },
+        "spread": {
+          "value": 0,
+          "unit": "px"
+        }
+      },
+      {
+        "color": {
+          "colorSpace": "srgb",
+          "components": [
+            0.10588235408067703,
+            0.15294118225574493,
+            0.20000000298023224
+          ],
+          "alpha": 0.10000000149011612
+        },
+        "offsetX": {
+          "value": 0,
+          "unit": "px"
+        },
+        "offsetY": {
+          "value": 4,
+          "unit": "px"
+        },
+        "blur": {
+          "value": 8,
+          "unit": "px"
+        },
+        "spread": {
+          "value": 0,
+          "unit": "px"
+        }
+      }
+    ]
+  },
+  "elevation-level3": {
+    "$type": "shadow",
+    "$description": "Dropdown, popover, tooltip. New to the system — the audited products use zero shadows today.",
+    "$value": [
+      {
+        "color": {
+          "colorSpace": "srgb",
+          "components": [
+            0.10588235408067703,
+            0.15294118225574493,
+            0.20000000298023224
+          ],
+          "alpha": 0.05999999865889549
+        },
+        "offsetX": {
+          "value": 0,
+          "unit": "px"
+        },
+        "offsetY": {
+          "value": 4,
+          "unit": "px"
+        },
+        "blur": {
+          "value": 8,
+          "unit": "px"
+        },
+        "spread": {
+          "value": 0,
+          "unit": "px"
+        }
+      },
+      {
+        "color": {
+          "colorSpace": "srgb",
+          "components": [
+            0.10588235408067703,
+            0.15294118225574493,
+            0.20000000298023224
+          ],
+          "alpha": 0.11999999731779099
+        },
+        "offsetX": {
+          "value": 0,
+          "unit": "px"
+        },
+        "offsetY": {
+          "value": 8,
+          "unit": "px"
+        },
+        "blur": {
+          "value": 16,
+          "unit": "px"
+        },
+        "spread": {
+          "value": 0,
+          "unit": "px"
+        }
+      }
+    ]
+  },
+  "elevation-level4": {
+    "$type": "shadow",
+    "$description": "Modal and dialog. New to the system — the audited products use zero shadows today.",
+    "$value": [
+      {
+        "color": {
+          "colorSpace": "srgb",
+          "components": [
+            0.10588235408067703,
+            0.15294118225574493,
+            0.20000000298023224
+          ],
+          "alpha": 0.07999999821186066
+        },
+        "offsetX": {
+          "value": 0,
+          "unit": "px"
+        },
+        "offsetY": {
+          "value": 8,
+          "unit": "px"
+        },
+        "blur": {
+          "value": 16,
+          "unit": "px"
+        },
+        "spread": {
+          "value": 0,
+          "unit": "px"
+        }
+      },
+      {
+        "color": {
+          "colorSpace": "srgb",
+          "components": [
+            0.10588235408067703,
+            0.15294118225574493,
+            0.20000000298023224
+          ],
+          "alpha": 0.14000000059604645
+        },
+        "offsetX": {
+          "value": 0,
+          "unit": "px"
+        },
+        "offsetY": {
+          "value": 16,
+          "unit": "px"
+        },
+        "blur": {
+          "value": 32,
+          "unit": "px"
+        },
+        "spread": {
+          "value": 0,
+          "unit": "px"
+        }
+      }
+    ]
+  },
+  "elevation-level5": {
+    "$type": "shadow",
+    "$description": "Full-screen overlay, command palette. New to the system — the audited products use zero shadows today.",
+    "$value": [
+      {
+        "color": {
+          "colorSpace": "srgb",
+          "components": [
+            0.10588235408067703,
+            0.15294118225574493,
+            0.20000000298023224
+          ],
+          "alpha": 0.10000000149011612
+        },
+        "offsetX": {
+          "value": 0,
+          "unit": "px"
+        },
+        "offsetY": {
+          "value": 16,
+          "unit": "px"
+        },
+        "blur": {
+          "value": 32,
+          "unit": "px"
+        },
+        "spread": {
+          "value": 0,
+          "unit": "px"
+        }
+      },
+      {
+        "color": {
+          "colorSpace": "srgb",
+          "components": [
+            0.10588235408067703,
+            0.15294118225574493,
+            0.20000000298023224
+          ],
+          "alpha": 0.18000000715255737
+        },
+        "offsetX": {
+          "value": 0,
+          "unit": "px"
+        },
+        "offsetY": {
+          "value": 24,
+          "unit": "px"
+        },
+        "blur": {
+          "value": 48,
+          "unit": "px"
+        },
+        "spread": {
+          "value": 0,
+          "unit": "px"
+        }
+      }
+    ]
+  }
+}
